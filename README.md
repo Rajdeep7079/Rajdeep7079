@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1xq_k1XF1psjgAUGUJOTQKLrA1cdVqJ4D/view?usp=share_link">Rajdeep's Resume</a>
 
-- 👨‍💻 All of my projects are available at <a href="https://Rajdeep7079.github.io/">Musarraf's Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://Rajdeep7079.github.io/">Rajdeep's Portfolio</a>
 
 - 📮 Connect With Me On <a href="https://www.linkedin.com/in/musarraf-raza-292983201/">LinkedIn</a>
 
