@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/108dbvppceLWEET1g15iXErmRUGAfOCku/view?usp=sharing">Musarraf's Resume</a>
 
-- 👨‍💻 All of my projects are available at <a href="https://musarraf207.github.io/">Musarraf's Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://Rajdeep7079.github.io/">Musarraf's Portfolio</a>
 
 - 📮 Connect With Me On <a href="https://www.linkedin.com/in/musarraf-raza-292983201/">LinkedIn</a>
 
@@ -75,11 +75,11 @@
 
 ## Trophy & Stats :
 
-| [![trophy](https://github-profile-trophy.vercel.app/?username=musarraf207)](https://github.com/ryo-ma/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musarraf207&layout=compact)](https://github.com/musarraf207/github-readme-stats) |
+| [![trophy](https://github-profile-trophy.vercel.app/?username=Rajdeep7079)](https://github.com/ryo-ma/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musarraf207&layout=compact)](https://github.com/musarraf207/github-readme-stats) |
 | :---: | :---: |
 
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=musarraf207&theme=dark&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=musarraf207&theme=dark&border_radius=4)](https://git.io/streak-stats) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajdeep7079&theme=dark&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=musarraf207&theme=dark&border_radius=4)](https://git.io/streak-stats) |
 | :---: | :---: |
 
 
