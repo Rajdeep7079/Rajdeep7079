@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://Rajdeep7079.github.io/">Rajdeep's Portfolio</a>
 
-- 📮 Connect With Me On <a href="https://www.linkedin.com/in/musarraf-raza-292983201/">LinkedIn</a>
+- 📮 Connect With Me On <a href="https://www.linkedin.com/in/rajdeep-kumar-0217241ba">LinkedIn</a>
 
 
 - 📨 Email ID : **sunnysahu930496@gmail.com**
