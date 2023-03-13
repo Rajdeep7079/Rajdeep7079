@@ -26,7 +26,7 @@
 - 📮 Connect With Me On <a href="https://www.linkedin.com/in/musarraf-raza-292983201/">LinkedIn</a>
 
 
-- 📨 Email ID : **musarraf207@gmail.com**
+- 📨 Email ID : **sunnysahu930496@gmail.com**
 
 </div>
 
