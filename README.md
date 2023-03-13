@@ -1,8 +1,4 @@
-### Hi there 👋
-<style>
-body{
-background-color:"teal"}
-</style>
+### Hello world 👋
 
 <h1>Hi, I'm Rajdeep Kumar</h1>
 <p>
