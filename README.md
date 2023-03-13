@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+body{
+background-color:"teal"}
 
  <img width=50% align=right  title="Musarraf"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=🔰&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <h1>Hi, I'm Rajdeep Kumar</h1>
