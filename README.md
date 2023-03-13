@@ -2,7 +2,7 @@
 
 
  <img width=50% align=right  title="Musarraf"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=🔰&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-<h1>Hi, I'm Musarraf Raza</h1>
+<h1>Hi, I'm Rajdeep Kumar</h1>
 <p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Technical+Support+Engineer" alt="Typing SVG" /></a>
 </p>
@@ -12,14 +12,14 @@
  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width = "50%" height= "270" align = "right"> 
  
 </br> </br>
- [![Followers](https://img.shields.io/github/followers/musarraf207)](#)
- [![Stars](https://img.shields.io/github/stars/musarraf207?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) 
-![Profile views](https://gpvc.arturio.dev/musarraf207)
+ [![Followers](https://img.shields.io/github/followers/Rajdeep7079)](#)
+ [![Stars](https://img.shields.io/github/stars/Rajdeep7079?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) 
+![Profile views](https://gpvc.arturio.dev/Rajdeep7079)
 - 💎 I’m currently Aspiring `Technical Support Engineering`
 
 - 💬 Ask me about `Database, OS, Linux, DSA, JS, HTML, CSS.`
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/108dbvppceLWEET1g15iXErmRUGAfOCku/view?usp=sharing">Musarraf's Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1xq_k1XF1psjgAUGUJOTQKLrA1cdVqJ4D/view?usp=share_link">Rajdeep's Resume</a>
 
 - 👨‍💻 All of my projects are available at <a href="https://Rajdeep7079.github.io/">Musarraf's Portfolio</a>
 
